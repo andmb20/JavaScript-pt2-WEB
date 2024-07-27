@@ -9,7 +9,7 @@
 
     querySelector -> Trás UM elemento, o PRIMEIRO que ele encontrar
     querySelectorAll -> Trás TODOS os elementos que encontrar
-
+    addEventListener -> Adiciona um ouvinte de evento
 */
 
 
@@ -29,3 +29,5 @@ document.querySelector("Podemos Utilizar TAG.Utilizar CLASSE") // para quando ti
 
 document.querySelectorAll("TAG") // trás todos com a mesma tag
 document.querySelectorAll(".Nome Da Classe") // trás todos com a mesma classe
+
+nomeDoElemento.addEventListener("eventoASerObservado", funçãoOuNomeDaFunção) //coloca um ouvinte de evento para o elemento "nomeDoElemento"
