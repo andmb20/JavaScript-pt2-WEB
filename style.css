@@ -27,6 +27,14 @@ h4 {
     margin-top: 8px;
 }
 
+#input-value {
+    padding-left: 8px;
+    color: rgb(255, 0, 0);
+    font-size: 25px;
+    font-weight: bold;
+    margin-top: 8px;
+}
+
 .convert-button {
     width: 120px;
     height: 50px;
